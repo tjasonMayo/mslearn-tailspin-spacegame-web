@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jasmayo/SpaceGameWebPipeline/_apis/build/status/Space%20Game%20-%20web?branchName=master)](https://dev.azure.com/jasmayo/SpaceGameWebPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
